@@ -1,0 +1,51 @@
+.title{
+    font-family: 'Oswald';
+    font-size: 50px;
+}
+
+.write{
+    font-family: 'Oswald';
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+.preview{
+    font-family: 'Oswald';
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+.write-div{
+    border: solid black;
+    background-color: black;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.text-area{
+    width: 100%;
+    resize: none;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.prev-div{
+    background-color: black;
+    border: solid black;
+    border-radius: 10px;
+    padding-bottom: 16px;
+    
+}
+
+.view-md-div{
+    overflow-y: scroll;
+    height: 405px;
+    background-color:white;
+    padding-left: 10px;
+
+}
